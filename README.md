@@ -1,10 +1,9 @@
 # Vehicle
 
-Here is my first car designed using Blender!  
+Car model #001  
 
-Download the app: https://www.blender.org/download/  
+***BLENDER***: https://www.blender.org/download/  
 
-***You will need my permission in order to use these files for your personal work ;)***
   
 # Preview:  
 
