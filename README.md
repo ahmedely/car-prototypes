@@ -7,7 +7,7 @@ Below are 2 examples of the prototypes I made :)
 
 # Preview:  
 
-<p align="center">
+<p align="right">
  Model 1:<br>
 <img src="https://user-images.githubusercontent.com/63077422/117698510-d06b4f80-b191-11eb-954b-e29e605ebbc5.png" width="700" height="500">
 
